@@ -1,4 +1,3 @@
-
 class Rectangle
   attr_reader :length, :width
   attr_accessor :x, :y
